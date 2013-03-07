@@ -9,9 +9,9 @@ require_once('twitteroauth/twitteroauth.php');
 
 class Twitterauth extends TwitterOAuth
 {
-	const CONSUMER_KEY = "bYtULp8RIGyKmmhDdw";
-	const CONSUMER_SECRET = "pyG37N4lswV28LAsz2n65Ip6Av3eQAaHu7j00y1h8";
-	const OAUTH_CALLBACK = "http://projects.linkites.com/twitter/index.php/welcome/twit_call";
+	const CONSUMER_KEY = "<YOUR CONSUMER KEY HERE>";
+	const CONSUMER_SECRET = "<YOUR CONSUMER SECRET KEY HERE>";
+	const OAUTH_CALLBACK = "YOUR CALLBCK URL HERE";
 	
 	var $request_token;
 	var $url;
