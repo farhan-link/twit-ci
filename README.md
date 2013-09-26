@@ -1,6 +1,6 @@
 twit-ci
 =======
-Author: Farhan Abdul Shakoor | farhan.linkites@gmail.com 
+Author: Farhan Abdul Shakoor | farhan.cs06@gmail.com 
 
 A Newly Compiled Complete Code Igniter library giving you twitter oauth authentication and api access.
 # DEMO HERE http://projects.linkites.com/twitter/index.php/
