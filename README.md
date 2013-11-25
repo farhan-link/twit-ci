@@ -20,7 +20,7 @@ And you got it. create two method one for redirecting user to Twitter and one fo
 
 Please contact me ,If you need further assistances. or any Bug Find.
 Documentation: Will be Uploaded Soon
-Source: https://github.com/frhan-link/twit-ci
+Source: https://github.com/farhan-link/twit-ci
 Twitter: https://dev.twitter.com
 
 
